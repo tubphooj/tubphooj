@@ -1,5 +1,5 @@
 # Phong Yang
-## Enterprise Imaging Systems Administrator
+### Profile
 I am an Enterprise Imaging Systems Consultant for HCA Healthcare - East Florida Division. Servicing 14 hospitals from Fort Pierce Florida to Miami.
 
 ## Skills and Experience
