@@ -31,8 +31,7 @@ A highly motivated, goal-oriented IT professional with 17 years of experience in
     - ESXI
 
 ## Examples of Work
-* PowerBI - Echo Turn Around Times Dashboard
-* PowerBI - Cath Turn Around TImes Dashboard
+* [PowerBI - Cardiac Cath and Echo Turn Around Times Dashboard ](https://github.com/tubphooj/PowerBi_TAT_Dashboards/blob/main/README.md)
 * Powershell - Scripting
 * 
 
