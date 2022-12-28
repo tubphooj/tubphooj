@@ -6,6 +6,7 @@ A highly motivated, goal-oriented IT professional with 17 years of experience in
 * Clinical Imaging Systems 
     - PACS
       - GE Centricity PACS
+      - Enterprise Archives - VNA
       - Agfa Impax
       - Philips Xcelera
       - Teleradiology: Nuance Powershare, Viztek Opal, Medidata, SciImage
@@ -29,6 +30,9 @@ A highly motivated, goal-oriented IT professional with 17 years of experience in
     - MS Active Direcotry
     - MS SCCM
     - ESXI
+    - Powershell
+    - SQL DBA
+    - 
 
 ## Examples of Work
 * [PowerBI - Cardiac Cath and Echo Turn Around Times Dashboard ](https://github.com/tubphooj/PowerBi_TAT_Dashboards/blob/main/README.md)
