@@ -42,7 +42,7 @@ A highly motivated, goal-oriented IT professional with 17 years of experience in
     - SharePoint, Confluence, JIRA
 * Project Management
     - MS Projects
-    - Planner for resource allocations and management
+    - MS Planner
     - PlanView
 
 ## Examples of Work
