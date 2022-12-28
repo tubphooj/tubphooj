@@ -34,6 +34,10 @@ A highly motivated, goal-oriented IT professional with 17 years of experience in
     - SQL DBA
 * Workflow Management
     - SharePoint, Confluence, JIRA
+* Project Management
+    - MS Projects
+    - Planner for resource allocations and management
+    - PlanView
 
 ## Examples of Work
 * [PowerBI - Cardiac Cath and Echo Turn Around Times Dashboard ](https://github.com/tubphooj/PowerBi_TAT_Dashboards/blob/main/README.md)
