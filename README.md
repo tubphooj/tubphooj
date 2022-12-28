@@ -33,7 +33,7 @@ A highly motivated, goal-oriented IT professional with 17 years of experience in
 ## Examples of Work
 * [PowerBI - Cardiac Cath and Echo Turn Around Times Dashboard ](https://github.com/tubphooj/PowerBi_TAT_Dashboards/blob/main/README.md)
 * Powershell - Scripting
-* Imaging Infrastructure Diagrams and Dataflow
+* [Imaging Infrastructure Diagrams and Dataflow](https://github.com/tubphooj/Diagrams/blob/main/README.md)
 
 ## Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tubphooj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/phong-yang/)  
