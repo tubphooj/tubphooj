@@ -47,7 +47,7 @@ A highly motivated, goal-oriented IT professional with 17 years of experience in
 
 ## Examples of Work
 * [PowerBI - Cardiac Cath and Echo Turn Around Times Dashboard ](https://github.com/tubphooj/PowerBi_TAT_Dashboards/blob/main/README.md)
-* Powershell - Scripting
+* [Powershell - Scripting](https://github.com/tubphooj/PowerShell/blob/main/README.md)
 * [Imaging Infrastructure Diagrams and Dataflow](https://github.com/tubphooj/Diagrams/blob/main/README.md)
 
 ## Connect with me
