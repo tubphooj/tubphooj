@@ -38,7 +38,8 @@ A highly motivated, goal-oriented IT professional with 17 years of experience in
     - ESXI
     - Powershell
     - SQL DBA
-* Workflow Management
+    - BlueCat
+* Operations and Workflow Management
     - SharePoint, Confluence, JIRA
 * Project Management
     - MS Projects
