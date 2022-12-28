@@ -22,6 +22,12 @@ A highly motivated, goal-oriented IT professional with 17 years of experience in
 * Integrations
     -   HL7
     -   Infor Cloverleaf
+* Eletronic Medical Record
+    - Meditech
+    - Cerner
+    - eCW
+    - PatientKeeper
+    - Mckesson Horizon Patient Folder (HPF)
 * Data Analytics
     - SQL SSRS
     - PowerBI
