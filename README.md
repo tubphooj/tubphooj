@@ -3,7 +3,7 @@
 A highly motivated, goal-oriented IT professional with 17 years of experience in clinical imaging systems management, implementations, and support. Subject Matter Expert on all clinical systems and integrations. Led efforts on strategic planning, integration development, documentation, workflow optimization, and training. Ability to effectively communicate and partner with key stakeholders, vendors, and customers to establish successful solutions.
 
 ## Skills and Experience
-* Clinical Imaging Systems 
+#### * Clinical Imaging Systems 
     - PACS
       - GE Centricity PACS
       - Enterprise Archives - VNA
