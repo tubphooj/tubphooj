@@ -1,6 +1,8 @@
 # Phong Yang
 
-A highly motivated, goal-oriented IT professional with 17 years of experience in clinical imaging systems management, implementations, and support. Subject Matter Expert on all clinical systems and integrations. Led efforts on strategic planning, integration development, documentation, workflow optimization, and training. Ability to effectively communicate and partner with key stakeholders, vendors, and customers to establish successful solutions.
+Healthcare IT leader with 20 years of experience supporting and delivering radiology and cardiovascular clinical imaging systems across complex health systems. Progressed from hands-on PACS administration and implementation into technical consulting and enterprise imaging leadership.
+
+Experienced leading technical teams, managing escalations and service performance, and working across clinical, vendor, infrastructure, and application teams to resolve complex system and integration issues. Strong background in PACS architecture, HL7 and DICOM integrations, system lifecycle planning, technical documentation, workflow standardization, and operational performance
 
 ## Skills and Experience
 #### Clinical Imaging Systems 
